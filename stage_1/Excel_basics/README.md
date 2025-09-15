@@ -9,7 +9,7 @@ This section introduces the fundamental concepts of Microsoft Excel, focusing on
 - Basic text and cell formatting (bold, alignment, column width adjustments)  
 
 ## Practice Files
-- **Excel_basics.xlsx** – Simple dataset used to practice table creation and formatting.  
+- [Excel_basics.xlsx](./Excel_basics.xlsx) – Simple dataset used to practice table creation and formatting.  
 
 ## Key Takeaways
 - The Excel environment is organized into workbooks containing worksheets made up of rows and columns.  
