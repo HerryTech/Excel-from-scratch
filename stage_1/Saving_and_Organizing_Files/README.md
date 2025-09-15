@@ -1,6 +1,6 @@
 # Saving and Organizing Files
 
-This section focuses on file management skills necessary for effective data analysis. The emphasis is on understanding Excel file formats, proper saving practices, and creating a structured folder system for project organization.
+This section focuses on file management skills necessary for effective data analysis. The emphasis is on understanding Excel file formats, and proper saving practices.
 
 ## Topics Covered
 - Common Excel file formats:
