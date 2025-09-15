@@ -1,2 +1,2 @@
-# excel-from-scratch
+# Excel-from-scratch
 Tracking my progress in Excel, from basics to advanced skills.
