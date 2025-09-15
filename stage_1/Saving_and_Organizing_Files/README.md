@@ -10,7 +10,7 @@ This section focuses on file management skills necessary for effective data anal
 - Saving workbooks in multiple formats for different use cases   
 
 ## Practice Files
-- `[Saving_files](./Saving_files.xlsx)` – Example workbook saved in standard format with formatting and formulas.  
+- [Saving_files](./Saving_files.xlsx) – Example workbook saved in standard format with formatting and formulas.  
 - [Saving_files](./Saving_files.csv) – Equivalent dataset exported as raw data for comparison.  
 
 ## Key Takeaways
