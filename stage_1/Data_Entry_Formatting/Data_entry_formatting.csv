@@ -1,0 +1,8 @@
+Product,Category,Price,Quantity,Total,Days,Month,Product + Category
+Rice 5kg,Food,5000,3,"?15,000",Mon,Jan,Rice 5kg - Food
+Detergent 1kg,Household,1500,2,"?3,000",Tue,Feb,Detergent 1kg - Household
+Toothpaste,Personal,800,4,"?3,200",Wed,Mar,Toothpaste - Personal
+Beans 2kg,Food,3000,5,"?15,000",Thu,Apr,Beans 2kg - Food
+Soap,Personal,500,6,"?3,000",Fri,May,Soap - Personal
+,,,,,,,
+,,,Grand Total,"?39,200",,,

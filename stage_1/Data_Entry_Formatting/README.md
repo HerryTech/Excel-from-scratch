@@ -13,7 +13,7 @@ This section introduces essential data entry and formatting techniques in Excel,
 
 ## Practice Files
 - [Data_entry_formatting](./Data_entry_formatting.xlsx) — dataset with products, prices, quantities, and calculated totals  
-- **Day3_DataEntryFormatting.csv** — exported raw version of the dataset (without formatting)  
+- [Data_entry_formatting](./Data_entry_formatting.csv) — exported raw version of the dataset (without formatting)  
 
 ## Key Takeaways
 - Consistent formatting improves readability and clarity of data tables  
@@ -21,6 +21,3 @@ This section introduces essential data entry and formatting techniques in Excel,
 - Formulas enable dynamic calculations that update automatically with new data  
 - AutoSum provides a quick way to compute totals and summary values  
 - Well-formatted datasets form the foundation for reliable analysis  
-
-## Next Steps
-Proceed to formulas and functions in Excel, focusing on performing calculations beyond basic multiplication and summation.  
