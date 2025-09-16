@@ -7,4 +7,5 @@ This stage builds a strong foundation in Excel, introducing essential skills for
 - [Saving and Organizing files](./Saving_and_Organizing_Files/)  
 - [Data Entry and Formatting](./Data_Entry_Formatting/)  
 - [Sorting and Filtering](./Sorting_Filtering/)
+- [Formulas and Functions](./Formulas_Functions/)
   
