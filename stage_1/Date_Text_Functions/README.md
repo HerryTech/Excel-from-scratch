@@ -20,8 +20,7 @@ This section introduces Excel’s date and text functions, which allow you to ma
 - Counting characters with `LEN()`
 
 ## Practice Files
-- [Date_Text_Functions](./Date_Text_Functions.xlsx) — dataset with employee records, dates of joining, product names, and IDs for practicing date and text functions
-- [Date_Text_Functions](./Date_Text_Functions.csv) — raw dataset export for external tools
+- [Date and Text Functions](./Date_text_functions.xlsx) — dataset with employee records, dates of joining, product names, and IDs for practicing date and text functions
 
 ## Key Takeaways
 - Date functions make it easy to calculate durations and extract specific components of a date
