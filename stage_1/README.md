@@ -8,4 +8,5 @@ This stage builds a strong foundation in Excel, introducing essential skills for
 - [Data Entry and Formatting](./Data_Entry_Formatting/)  
 - [Sorting and Filtering](./Sorting_Filtering/)
 - [Formulas and Functions](./Formulas_Functions/)
-  
+- [Logical and Counting Functions](./Logical_Counting_Functions/)
+- [Date and Text Functions](./Date_Text_Functions/)
