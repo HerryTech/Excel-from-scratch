@@ -1,5 +1,4 @@
 # Sorting and Filtering  
-
 This section introduces Excel’s sorting and filtering tools, which allow you to organize and analyze datasets efficiently. Sorting arranges rows in a logical order, while filtering helps you focus only on relevant information. Together, these skills are essential for managing and exploring large datasets.  
 
 ## Topics Covered  
