@@ -12,3 +12,4 @@ This stage builds a strong foundation in Excel, introducing essential skills for
 - [Date and Text Functions](./Date_Text_Functions/)
 - [Data Validation and Drop-down](./Data_Validation_Drop-Down_Lists/)
 - [Conditaional Formatting](./Conditional_Formatting/)
+- [Pivot Table Basics](./Pivot_Table_Basics/)
