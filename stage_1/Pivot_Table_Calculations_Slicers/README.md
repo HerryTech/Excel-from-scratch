@@ -11,7 +11,7 @@ This lesson builds on the basics of PivotTables by showing how to perform calcul
 
 
 ## Practice Files
-- [PivotTable Calculations & Slicer](./Pivot_table_calculations.xlsx) → Dataset with employee names, departments, salaries, sales, and dates  
+- [PivotTable Calculations](./Pivot_table_calculations.xlsx) → Dataset with employee names, departments, salaries, sales, and dates  
 
 ## Key Takeaways
 - PivotTables do not stop at sums; you can quickly switch to averages, counts, maximums, or minimums for deeper insights.  
