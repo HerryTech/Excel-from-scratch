@@ -13,4 +13,4 @@ This stage builds a strong foundation in Excel, introducing essential skills for
 - [Data Validation and Drop-down](./Data_Validation_Drop-Down_Lists/)
 - [Conditaional Formatting](./Conditional_Formatting/)
 - [PivotTable Basics](./Pivot_Table_Basics/)
-- [PivotTable Calculations](./Pivot_Table_Calculations/)
+- [PivotTable Calculations & Slicers](./Pivot_Table_Calculations_Slicers/)
