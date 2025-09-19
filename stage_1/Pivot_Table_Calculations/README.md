@@ -16,6 +16,7 @@ This lesson builds on the basics of PivotTables by showing how to perform calcul
 ## Key Takeaways
 - PivotTables do not stop at sums; you can quickly switch to averages, counts, maximums, or minimums for deeper insights.  
 - The **Show Values As** option lets you analyze data in new ways, such as percentages of totals, differences from a base, or rankings.  
-- **Calculated Fields** let you add your own formulas inside a PivotTable, making them powerful tools for analysis without leaving the PivotTable environment.  
-
+- **Calculated Fields** let you add your own formulas inside a PivotTable, making them powerful tools for analysis without leaving the PivotTable environment. 
+- **Slicers** make PivotTables interactive by letting you filter data with clickable buttons.  
+- **Timelines** provide an easy way to filter PivotTables by dates, helping you focus on specific months, quarters, or years.  
 
