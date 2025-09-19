@@ -1,6 +1,6 @@
 # PivotTable Calculations & Slicer
 
-This lesson builds on the basics of PivotTables by showing how to perform calculations directly inside the PivotTable. Instead of writing formulas in worksheet cells, you can summarize values in different ways, display them as percentages or rankings, and even create custom calculated fields.
+This lesson builds on the basics of PivotTables by showing how to perform calculations directly inside the PivotTable. Instead of writing formulas in worksheet cells, you can summarize values in different ways, display them as percentages or rankings, and even create custom calculated fields. It also builds on how to use **Slicers** and **Timelines** for interactive filtering.
 
 ## Topics Covered
 - Summarizing values using different functions (`SUM`, `AVERAGE`, `COUNT`, `MAX`, `MIN`)  
