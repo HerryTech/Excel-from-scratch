@@ -14,4 +14,4 @@ This stage builds a strong foundation in Excel, introducing essential skills for
 - [Conditional Formatting](./Conditional_Formatting/)
 - [PivotTable Basics](./Pivot_Table_Basics/)
 - [PivotTable Calculations & Slicers](./Pivot_Table_Calculations_Slicers/)
-- [Charts and Visualization Basics]
+- [Charts and Visualization Basics](./Charts_Visualization_Basics/)
