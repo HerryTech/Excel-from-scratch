@@ -5,7 +5,8 @@ This stage builds a strong foundation in Excel, introducing essential skills for
 ## Topics Covered  
 - [Excel Basics](./Excel_basics/) 
 - [Saving and Organizing files](./Saving_and_Organizing_Files/)  
-- [Data Entry and Formatting](./Data_Entry_Formatting/)  
+- [Data Entry and Formatting](./Data_Entry_Formatting/) 
+- [Basic Management Tools](./Basic_Management_Tools/) 
 - [Sorting and Filtering](./Sorting_Filtering/)
 - [Formulas and Functions](./Formulas_Functions/)
 - [Logical and Counting Functions](./Logical_Counting_Functions/)
