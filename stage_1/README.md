@@ -9,7 +9,7 @@ This stage builds a strong foundation in Excel, introducing essential skills for
 - [Basic Management Tools](./Basic_Management_Tools/) 
 - [Sorting and Filtering](./Sorting_Filtering/)
 - [Formulas and Functions](./Formulas_Functions/)
-- [Basic Error Handling & Named Ranges](./Basic_error_handling_named_ranges.xlsx)
+- [Basic Error Handling & Named Ranges](./Basic_Error_Handling_Named_Ranges/)
 - [Logical and Counting Functions](./Logical_Counting_Functions/)
 - [Date and Text Functions](./Date_Text_Functions/)
 - [Data Validation and Drop-down](./Data_Validation_Drop-Down_Lists/)
