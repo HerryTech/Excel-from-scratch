@@ -5,4 +5,5 @@ Learnt using IF, left and Substitute. =IF(LEFT(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(
    SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(A1," ",""),".",""),"-",""),"(",""),
    "+" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(A1," ",""),".",""),"-",""),"(",""))
 Learnt Using Text =TEXT(F2,"mmm")
+Learnt how to merge and unmerge cells
 
