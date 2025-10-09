@@ -28,7 +28,7 @@ The dataset includes transactional records with details such as:
 ### 2. Formulas and Calculations
 - Used `IF`, `SUBSTITUTE`, `LEFT`, `TEXT` 
 - Created calculated fields in PivotTables
--  
+- Used Data Model in pivot table to get distinct count and measures
 
 ### 3. PivotTables and PivotCharts
 - Built PivotTables to summarize sales by **Year**, **Product Line**, **Region**, and **Deal Size**  
