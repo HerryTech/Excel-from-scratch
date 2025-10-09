@@ -1,9 +1,84 @@
-# Stage1 Project
-Learnt using Add this data to the Data Model in pivot table to get distinct count.
-Learnt using Add this data to the Data Model in pivot table to use measure
-Learnt using IF, left and Substitute. =IF(LEFT(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(A1," ",""),".",""),"-",""),"(",""),1)="+",
-   SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(A1," ",""),".",""),"-",""),"(",""),
-   "+" & SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(A1," ",""),".",""),"-",""),"(",""))
-Learnt Using Text =TEXT(F2,"mmm")
-Learnt how to merge and unmerge cells
 
+
+
+# Stage 1 Project – Sales Performance Dashboard
+
+This project demonstrates practical application of Excel’s beginner-level data analysis and visualization tools. Using the **Sample Sales Data** from Kaggle, the goal was to create an interactive **Sales Performance Dashboard** that summarizes key business metrics, tracks sales trends, and enables dynamic insights through filters and visuals.
+
+## Dataset
+**Source:** [Sample Sales Data (Kaggle)](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)  
+The dataset includes transactional records with details such as:
+- Order Date  
+- Customer Name  
+- Product Line  
+- Deal Size  
+- Territory  
+- Quantity Ordered  
+- Price and Sales Revenue  
+- Order Status  
+
+## Objectives
+- Analyze sales performance by **Product Line**, **Territory**, and **Deal Size**  
+- Track **Total Sales**, **Orders**, and **Quantities** across years  
+- Identify top-performing customers and best-selling product lines  
+- Create an **interactive dashboard** for decision-makers to explore data easily  
+
+## Features Demonstrated
+### 1. Data Preparation and Cleaning
+- Removed duplicates, handled missing values, and standardized date formats  
+- Applied **Data Validation** and **Conditional Formatting** to ensure accuracy  
+- Created **Named Ranges** for easier reference in formulas  
+
+### 2. Formulas and Calculations
+- Used `SUM`, `AVERAGE`, `COUNT`, `IFERROR`, and percentage formulas  
+- Created calculated fields in PivotTables (e.g., profit margins, bonuses)  
+- Applied **basic error handling** for `#DIV/0!` and `#N/A` errors  
+
+### 3. PivotTables and PivotCharts
+- Built PivotTables to summarize sales by **Year**, **Product Line**, **Region**, and **Deal Size**  
+- Used grouping to analyze performance by month and quarter  
+- Applied **Show Values As** for percentage and ranking analysis  
+
+### 4. Interactive Controls
+- Added **Slicers** for Product Line, Territory, and Deal Size  
+- Added a **Timeline** filter for Year-based analysis  
+- Enabled dynamic data exploration without changing the raw data  
+
+### 5. Visualization
+- Combined charts (Line, Column, and Pie) to display key metrics  
+- Highlighted:
+  - Sales Over Time  
+  - Sales by Product Line  
+  - Top 10 Customers  
+  - Order Status Distribution  
+  - Sales by Territory and Deal Size  
+- Applied custom themes, color fills, and consistent borders for clarity  
+
+### 6. Protection and Sharing
+- Protected worksheets to prevent accidental edits  
+- Hid helper sheets and intermediate calculations  
+- Exported final dashboard to PDF and Excel for presentation  
+
+## Dashboard Highlights
+- **Total Sales:** $8.3M  
+- **Total Orders:** 307  
+- **Quantity Ordered:** 99,067  
+- **Products Sold:** 2,823  
+- Visual filters (Product Line, Territory, Deal Size, Year) enable focused insights  
+- Clean, professional layout designed for management reporting  
+
+## Key Takeaways
+- PivotTables and slicers transform static data into dynamic, interactive insights  
+- Proper formatting and protection enhance usability and presentation  
+- Dashboards make complex datasets easier to interpret at a glance  
+- Beginner Excel tools can create meaningful business intelligence solutions  
+
+## Practice Files
+- [Sales_Dashboard.xlsx](./Sales_Dashboard.xlsx) → Completed interactive dashboard  
+- [Sample_Sales_Data.csv](./Sample_Sales_Data.csv) → Raw dataset from Kaggle  
+- [Sales_Dashboard.pdf](./Sales_Dashboard.pdf) → Exported version for sharing  
+
+---
+**Stage 1 Completed:**  
+This project wraps up all beginner-level Excel concepts — from data cleaning and formatting to PivotTables, charts, protection, and dashboard design.  
+The next stage will build on this foundation by introducing **Intermediate Excel techniques**, including advanced formulas, Power Query, and automation tools.
