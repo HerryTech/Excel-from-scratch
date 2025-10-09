@@ -22,14 +22,13 @@ The dataset includes transactional records with details such as:
 
 ## Features Demonstrated
 ### 1. Data Preparation and Cleaning
-- Removed duplicates, handled missing values, and standardized date formats  
-- Applied **Data Validation** and **Conditional Formatting** to ensure accuracy  
-- Created **Named Ranges** for easier reference in formulas  
+- Cleaned and prepared the data for analysis
+- Converted it to a table
 
 ### 2. Formulas and Calculations
-- Used `SUM`, `AVERAGE`, `COUNT`, `IFERROR`, and percentage formulas  
-- Created calculated fields in PivotTables (e.g., profit margins, bonuses)  
-- Applied **basic error handling** for `#DIV/0!` and `#N/A` errors  
+- Used `IF`, `SUBSTITUTE`, `LEFT`, `TEXT` 
+- Created calculated fields in PivotTables
+-  
 
 ### 3. PivotTables and PivotCharts
 - Built PivotTables to summarize sales by **Year**, **Product Line**, **Region**, and **Deal Size**  
@@ -70,7 +69,7 @@ The dataset includes transactional records with details such as:
 - Dashboards make complex datasets easier to interpret at a glance  
 - Beginner Excel tools can create meaningful business intelligence solutions  
 
-## Practice Files
+## Files
 - [Sales_Dashboard.xlsx](./Sales_Dashboard.xlsx) → Completed interactive dashboard  
 - [Sample_Sales_Data.csv](./Sample_Sales_Data.csv) → Raw dataset from Kaggle  
 - [Sales_Dashboard.pdf](./Sales_Dashboard.pdf) → Exported version for sharing  
