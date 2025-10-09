@@ -71,7 +71,7 @@ The dataset includes transactional records with details such as:
 
 ## Files
 - [Sales_Dashboard.xlsx](./sales_data_sample.xlsx) → Completed interactive dashboard  
-- [Sample_Sales_Data.csv](./Sample_Sales_Data.csv) → Raw dataset from Kaggle  
+- [Sample_Sales_Data.csv](./sales_data_sample.csv) → Raw dataset from Kaggle  
 - [Sales_Dashboard.pdf](./Sales_Dashboard.pdf) → Exported version for sharing  
 
 ---
