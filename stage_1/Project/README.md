@@ -70,7 +70,7 @@ The dataset includes transactional records with details such as:
 - Beginner Excel tools can create meaningful business intelligence solutions  
 
 ## Files
-- [Sales_Dashboard.xlsx](./Sales_Dashboard.xlsx) → Completed interactive dashboard  
+- [Sales_Dashboard.xlsx](./sales_data_sample.xlsx) → Completed interactive dashboard  
 - [Sample_Sales_Data.csv](./Sample_Sales_Data.csv) → Raw dataset from Kaggle  
 - [Sales_Dashboard.pdf](./Sales_Dashboard.pdf) → Exported version for sharing  
 
