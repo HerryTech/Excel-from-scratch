@@ -1,6 +1,3 @@
-
-
-
 # Stage 1 Project – Sales Performance Dashboard
 
 This project demonstrates practical application of Excel’s beginner-level data analysis and visualization tools. Using the **Sample Sales Data** from Kaggle, the goal was to create an interactive **Sales Performance Dashboard** that summarizes key business metrics, tracks sales trends, and enables dynamic insights through filters and visuals.
