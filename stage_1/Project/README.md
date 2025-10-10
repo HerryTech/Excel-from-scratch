@@ -49,12 +49,6 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - Most orders were **shipped** successfully with minimal pending orders.  
 - Medium deal sizes contributed the majority of total sales.  
 
-## Key Takeaways
-- PivotTables and slicers transform static data into dynamic, interactive insights  
-- Proper formatting and protection enhance usability and presentation  
-- Dashboards make complex datasets easier to interpret at a glance  
-- Beginner Excel tools can create meaningful business intelligence solutions  
-
 ## Files
 - [Sales_Data.xlsx](./sales_data_sample.xlsx) → Completed interactive dashboard  
 - [Sample_Sales_Data.csv](./sales_data_sample.csv) → Raw dataset from Kaggle  
