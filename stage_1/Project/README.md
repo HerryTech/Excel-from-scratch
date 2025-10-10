@@ -20,7 +20,15 @@ The dataset includes transactional records with details such as:
 - Identify top-performing customers and best-selling product lines  
 - Create an **interactive dashboard** for decision-makers to explore data easily  
 
+## Skills and Concepts Learned
+At this beginner stage, I practiced and applied the following Excel concepts:
 
+- Data cleaning and preparation  
+- Working with tables and named ranges  
+- Using Excel formulas (e.g., `IF`, `LEFT`, `SUBSTITUTE`)  
+- Creating Pivot Tables and Pivot Charts  
+- Applying filters, slicers, and timelines for interactivity  
+- Basic dashboard design and layout formatting  
 
 ### 6. Protection and Sharing
 - Protected worksheets to prevent accidental edits  
