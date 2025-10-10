@@ -50,8 +50,8 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - Medium deal sizes contributed the majority of total sales.  
 
 ## Files
-- [Sales_Data.xlsx](./sales_data_sample.xlsx) → Completed interactive dashboard  
-- [Sample_Sales_Data.csv](./sales_data_sample.csv) → Raw dataset from Kaggle  
+- [Sales_Data.xlsx](./sales_data_sample.xlsx) → Completed Excel file
+- [Sales Dashboard](./Sales_Dashboard.png) → Sales Performance Dashboard  
 - [Sales Dashboard](./Sales_Dashboard.pdf) → Exported version for sharing 
 
 ## 🧩 Tools Used
