@@ -59,7 +59,11 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 ## Files
 - [Sales_Data.xlsx](./sales_data_sample.xlsx) → Completed interactive dashboard  
 - [Sample_Sales_Data.csv](./sales_data_sample.csv) → Raw dataset from Kaggle  
-- [Sales Dashboard](./Sales_Dashboard.pdf) → Exported version for sharing  
+- [Sales Dashboard](./Sales_Dashboard.pdf) → Exported version for sharing 
+
+## 🧩 Tools Used
+- **Microsoft Excel (Data Cleaning, Analysis, and Dashboard Design)**  
+- **Kaggle Dataset:** [Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 
 ---
 **Stage 1 Completed:**  
