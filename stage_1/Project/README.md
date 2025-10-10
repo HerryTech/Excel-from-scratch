@@ -41,8 +41,6 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - **Total Orders:** 307  
 - **Quantity Ordered:** 99,067  
 - **Products Sold:** 2,823  
-- Visual filters (Product Line, Territory, Deal Size, Year) enable focused insights  
-- Clean, professional layout designed for management reporting
 
 ## Key Visuals
 - **Sales Over Time:** Monthly sales trends across selected years (2003–2005)  
