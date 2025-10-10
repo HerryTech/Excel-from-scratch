@@ -58,6 +58,12 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - **Microsoft Excel (Data Cleaning, Analysis, and Dashboard Design)**  
 - **Kaggle Dataset:** [Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 
+## Key Takeaways
+- PivotTables and slicers transform static data into dynamic, interactive insights  
+- Proper formatting and protection enhance usability and presentation  
+- Dashboards make complex datasets easier to interpret at a glance  
+- Beginner Excel tools can create meaningful business intelligence solutions  
+
 ---
 **Stage 1 Completed:**  
 This project wraps up all beginner-level Excel concepts — from data cleaning and formatting to PivotTables, charts, protection, and dashboard design.  
