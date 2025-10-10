@@ -26,7 +26,7 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - Working with tables and named ranges  
 - Using Excel formulas (e.g., `IF`, `LEFT`, `SUBSTITUTE`)  
 - Adding data to the Data Model in Excel 
-- Creating calculated measures and distinct counts using Power Pivot  
+- Creating calculated measures and distinct counts using Pivot  
 - Creating Pivot Tables and Pivot Charts  
 - Applying filters, and slicers for interactivity  
 - Basic dashboard design and layout formatting  
