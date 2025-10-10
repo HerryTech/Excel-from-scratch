@@ -31,12 +31,6 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - Applying filters, and slicers for interactivity  
 - Basic dashboard design and layout formatting  
 
-## Dashboard Highlights
-- **Total Sales:** $8.3M  
-- **Total Orders:** 307  
-- **Quantity Ordered:** 99,067  
-- **Products Sold:** 2,823  
-
 ## Key Visuals
 - **Sales Over Time:** Monthly sales trends across selected years (2003–2005)  
 - **Sales by Product Line:** Comparison of revenue across categories like Classic Cars, Motorcycles, Planes, and more  
