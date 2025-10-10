@@ -2,7 +2,7 @@
 
 This project demonstrates practical application of Excel’s beginner-level data analysis and visualization tools. Using the **Sample Sales Data** from Kaggle, the goal was to create an interactive **Sales Performance Dashboard** that summarizes key business metrics, tracks sales trends, and enables dynamic insights through filters and visuals.
 
-## Dataset
+### Dataset
 **Source:** [Sample Sales Data (Kaggle)](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)  
 The dataset includes transactional records with details such as:
 - Order Date  
