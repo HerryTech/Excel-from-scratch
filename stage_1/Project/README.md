@@ -42,7 +42,15 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - **Quantity Ordered:** 99,067  
 - **Products Sold:** 2,823  
 - Visual filters (Product Line, Territory, Deal Size, Year) enable focused insights  
-- Clean, professional layout designed for management reporting  
+- Clean, professional layout designed for management reporting
+
+## Key Visuals
+- **Sales Over Time:** Monthly sales trends across selected years (2003–2005)  
+- **Sales by Product Line:** Comparison of revenue across categories like Classic Cars, Motorcycles, Planes, and more  
+- **Sales by Territory:** Breakdown of sales across APAC, EMEA, Japan, and NA  
+- **Top 10 Customers:** Ranking of top customers by sales value  
+- **Sales by Deal Size:** Distribution of sales across small, medium, and large deals  
+- **Order Status Distribution:** Share of shipped vs pending orders  
 
 ## Key Takeaways
 - PivotTables and slicers transform static data into dynamic, interactive insights  
