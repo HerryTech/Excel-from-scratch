@@ -55,8 +55,8 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - [Sales Dashboard](./Sales_Dashboard.pdf) → Exported version for sharing 
 
 ## Tools Used
-- **Microsoft Excel (Data Cleaning, Analysis, and Dashboard Design)**  
-- **Kaggle Dataset:** [Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
+- Microsoft Excel (Data Cleaning, Analysis, and Dashboard Design) 
+- Kaggle
 
 ## Key Takeaways
 - PivotTables and slicers transform static data into dynamic, interactive insights  
