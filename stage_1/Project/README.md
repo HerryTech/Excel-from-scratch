@@ -22,7 +22,6 @@ The dataset includes transactional records with details such as:
 
 ## Skills and Concepts Learned
 At this beginner stage, I practiced and applied the following Excel concepts:
-
 - Data cleaning and preparation  
 - Working with tables and named ranges  
 - Using Excel formulas (e.g., `IF`, `LEFT`, `SUBSTITUTE`)  
