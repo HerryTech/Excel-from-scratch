@@ -37,7 +37,17 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - **Sales by Territory:** Breakdown of sales across APAC, EMEA, Japan, and NA  
 - **Top 10 Customers:** Ranking of top customers by sales value  
 - **Sales by Deal Size:** Distribution of sales across small, medium, and large deals  
-- **Order Status Distribution:** Share of shipped vs pending orders  
+- **Order Status Distribution:** Share of shipped vs pending orders 
+
+## Dashboard Highlights and Insights
+- **Total Sales:** $8.3M  
+- **Total Orders:** 307  
+- **Quantity Ordered:** 99,067  
+- **Products Sold:** 2,823  
+- The **Classic Cars** category generated the highest revenue among all product lines.  
+- The **EMEA** region led in total sales compared to APAC, Japan, and NA.  
+- Most orders were **shipped** successfully with minimal pending orders.  
+- Medium deal sizes contributed the majority of total sales.  
 
 ## Key Takeaways
 - PivotTables and slicers transform static data into dynamic, interactive insights  
