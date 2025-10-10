@@ -25,6 +25,7 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - Data cleaning and preparation  
 - Working with tables and named ranges  
 - Using Excel formulas (e.g., `IF`, `LEFT`, `SUBSTITUTE`)  
+- Add data to the **Data Model** in Excel 
 - Creating Pivot Tables and Pivot Charts  
 - Applying filters, and slicers for interactivity  
 - Basic dashboard design and layout formatting  
