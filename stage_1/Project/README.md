@@ -26,7 +26,7 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - Working with tables and named ranges  
 - Using Excel formulas (e.g., `IF`, `LEFT`, `SUBSTITUTE`)  
 - Creating Pivot Tables and Pivot Charts  
-- Applying filters, slicers, and timelines for interactivity  
+- Applying filters, and slicers for interactivity  
 - Basic dashboard design and layout formatting  
 
 ### 6. Protection and Sharing
