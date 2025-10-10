@@ -50,7 +50,7 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - Medium deal sizes contributed the majority of total sales.  
 
 ## Files
-- [Sales_Data.xlsx](./sales_data_sample.xlsx) → Completed Excel file
+- [Sales Data](./sales_data_sample.xlsx) → Completed Excel file
 - [Sales Dashboard](./Sales_Dashboard.png) → Sales Performance Dashboard  
 - [Sales Dashboard](./Sales_Dashboard.pdf) → Exported version for sharing 
 
