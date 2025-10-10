@@ -31,11 +31,6 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - Applying filters, and slicers for interactivity  
 - Basic dashboard design and layout formatting  
 
-### 6. Protection and Sharing
-- Protected worksheets to prevent accidental edits  
-- Hid helper sheets and intermediate calculations  
-- Exported final dashboard to PDF and Excel for presentation  
-
 ## Dashboard Highlights
 - **Total Sales:** $8.3M  
 - **Total Orders:** 307  
