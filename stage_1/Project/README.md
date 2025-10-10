@@ -54,7 +54,7 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - [Sales Dashboard](./Sales_Dashboard.png) → Sales Performance Dashboard  
 - [Sales Dashboard](./Sales_Dashboard.pdf) → Exported version for sharing 
 
-## 🧩 Tools Used
+## Tools Used
 - **Microsoft Excel (Data Cleaning, Analysis, and Dashboard Design)**  
 - **Kaggle Dataset:** [Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 
