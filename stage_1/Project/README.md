@@ -20,35 +20,7 @@ The dataset includes transactional records with details such as:
 - Identify top-performing customers and best-selling product lines  
 - Create an **interactive dashboard** for decision-makers to explore data easily  
 
-## Features Demonstrated
-### 1. Data Preparation and Cleaning
-- Cleaned and prepared the data for analysis
-- Converted it to a table
 
-### 2. Formulas and Calculations
-- Used `IF`, `SUBSTITUTE`, `LEFT`, `TEXT` 
-- Created calculated fields in PivotTables
-- Used Data Model in pivot table to get distinct count and measures
-
-### 3. PivotTables and PivotCharts
-- Built PivotTables to summarize sales by **Year**, **Product Line**, **Region**, and **Deal Size**  
-- Used grouping to analyze performance by month and quarter  
-- Applied **Show Values As** for percentage and ranking analysis  
-
-### 4. Interactive Controls
-- Added **Slicers** for Product Line, Territory, and Deal Size  
-- Added a **Timeline** filter for Year-based analysis  
-- Enabled dynamic data exploration without changing the raw data  
-
-### 5. Visualization
-- Combined charts (Line, Column, and Pie) to display key metrics  
-- Highlighted:
-  - Sales Over Time  
-  - Sales by Product Line  
-  - Top 10 Customers  
-  - Order Status Distribution  
-  - Sales by Territory and Deal Size  
-- Applied custom themes, color fills, and consistent borders for clarity  
 
 ### 6. Protection and Sharing
 - Protected worksheets to prevent accidental edits  
