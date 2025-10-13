@@ -1,10 +1,6 @@
 # Excel From Scratch
 
-This repository documents my journey of re-learning Microsoft Excel from the very beginning to advanced level. I want to start over, build consistency, and track my daily progress here on GitHub.  
-
-# Excel from Scratch  
-
-This repository documents my complete Excel learning journey from beginner  It is structured in **three stages**, each building on the previous one through hands-on lessons, practical exercises, and real-world projects. The goal is to master Excel for data analysis, business reporting, and decision-making.  
+This repository documents my journey of re-learning Microsoft Excel from the very beginning to advanced level. I want to start over, build consistency, and track my daily progress here on GitHub. It is structured in **three stages**, each building on the previous one through hands-on lessons, practical exercises, and real-world projects. The goal is to master Excel for data analysis, business reporting, and decision-making.  
 
 ## Learning Path  
 
