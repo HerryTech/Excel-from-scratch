@@ -9,3 +9,8 @@ This repository documents my journey of re-learning Microsoft Excel from the ver
 **Folder:** [stage_1](./stage_1/)
 
 
+### **1. Stage 2:**
+
+**Folder:** [stage_2](./stage_2/)
+
+
