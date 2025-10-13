@@ -10,9 +10,9 @@ Focuses on mastering the basics of Excel. This includes navigating the interface
 
 ### Stage 2 - Intermediate Excel  
 Expands on core skills by introducing advanced formulas, data cleaning tools, lookup functions, and automation techniques. It also covers advanced charting, conditional analysis, Power Query, and error handling. The stage concludes with a project focused on **Data Analysis and Reporting** using real datasets.  
-- Folder: [Stage 2 - Intermediate Excel](./Stage_2/)  
+- Folder: [Stage 2 - Intermediate Excel](./stage_2/)  
 
-### 🟦 Stage 3 — Advanced Excel  
+### Stage 3 — Advanced Excel  
 Covers advanced data modeling, dashboard automation, and professional reporting. This stage explores Power Pivot, DAX measures, scenario analysis, macros, and complex business models. The final project demonstrates **end-to-end reporting automation** and performance tracking.  
 - Folder: [Stage 3 — Advanced Excel](./Stage_3/)  
 
