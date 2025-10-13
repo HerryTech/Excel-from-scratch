@@ -1,1 +1,1 @@
-# Stage 2
+# Stage 2 - Intermediate Excel
