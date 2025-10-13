@@ -9,23 +9,6 @@ Focuses on mastering the basics of Excel. This includes navigating the interface
 - Folder: [Stage 1 - Excel Fundamentals](./stage_1/)  
 
 ### Stage 2 - Intermediate Excel  
-Expands on core skills by introducing advanced formulas, data cleaning tools, lookup functions, and automation techniques. It also covers advanced charting, conditional analysis, Power Query, and error handling. The stage concludes with a project focused on **Data Analysis and Reporting** using real datasets.  
+Expands on core skills by introducing advanced formulas, data cleaning tools, lookup functions, and automation techniques. It also covers advanced charting, conditional analysis, Power Query, and error handling.   
 - Folder: [Stage 2 - Intermediate Excel](./stage_2/)  
-
- 
-
-## Repository Structure  
-
-
-## Stages
-
-### **1. Stage 1:**
-
-**Folder:** [stage_1](./stage_1/)
-
-
-### **1. Stage 2:**
-
-**Folder:** [stage_2](./stage_2/)
-
 
