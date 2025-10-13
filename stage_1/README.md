@@ -33,4 +33,4 @@ Created an interactive sales dashboard using PivotTables, slicers, and charts to
 ---
 
 **Stage 1 Completed.**  
-Next: [Stage 2 — Intermediate Excel](../stage_2/)
+Next: [Stage 2 - Intermediate Excel](../stage_2/)
