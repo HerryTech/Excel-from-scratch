@@ -1,4 +1,4 @@
-# Stage 1 — Excel Fundamentals  
+# Stage 1 - Excel Fundamentals  
 
 This stage builds a strong foundation in Excel, introducing essential skills for creating, cleaning, and organizing datasets. The lessons progress from navigating the Excel interface to entering data, applying formatting, and using sorting and filtering tools. These core skills establish the groundwork for more advanced analysis in later stages.  
 
