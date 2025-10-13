@@ -27,7 +27,7 @@ This stage builds a strong foundation in Excel, introducing essential skills for
 - Dashboard creation from raw datasets  
 
 ## Project Showcase  
-**Final Project:** [Sales Performance Dashboard](./Project/)  
+**Final Project:** [Project - Sales Performance](./Project/)  
 Created an interactive sales dashboard using PivotTables, slicers, and charts to visualize sales performance, customer distribution, and product trends.  
 
 ---
