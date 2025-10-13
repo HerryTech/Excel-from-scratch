@@ -64,7 +64,5 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - Beginner Excel tools can create meaningful business intelligence solutions  
 
 ---
-**Stage 1 Completed:**  
-This project wraps up all beginner-level Excel concepts — from data cleaning and formatting to PivotTables, charts, protection, and dashboard design.  
-The next stage will build on this foundation by introducing **Intermediate Excel techniques**, including advanced formulas, Power Query, and automation tools.
+This project wraps up all beginner-level Excel concepts - from data cleaning and formatting to PivotTables, charts, protection, and dashboard design.
 
