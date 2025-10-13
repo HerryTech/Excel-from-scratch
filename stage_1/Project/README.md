@@ -46,7 +46,7 @@ At this beginner stage, I practiced and applied the following Excel concepts:
 - **Products Sold:** 2,823  
 - The **Classic Cars** category generated the highest revenue among all product lines.  
 - The **EMEA** region led in total sales compared to APAC, Japan, and NA.  
-- Most orders were **shipped** successfully with minimal pending orders.  
+- Most orders were shipped successfully with minimal pending orders.  
 - Medium deal sizes contributed the majority of total sales.  
 
 ## Files
