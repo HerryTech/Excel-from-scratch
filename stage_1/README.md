@@ -18,3 +18,20 @@ This stage builds a strong foundation in Excel, introducing essential skills for
 - [PivotTable Calculations & Slicers](./Pivot_Table_Calculations_Slicers/)
 - [Charts and Visualization Basics](./Charts_Visualization_Basics/)
 - [Project](./Project/)
+
+## Skills Acquired  
+- Efficient data entry, cleaning, and formatting  
+- Confident use of formulas (`SUM`, `IF`, `COUNTIF`, `AVERAGE`, `TEXT`, etc.)  
+- Data summarization and insight generation with PivotTables  
+- Dynamic visual reporting using charts, slicers, and timelines  
+- Worksheet protection, data validation, and error handling  
+- Dashboard creation from raw datasets  
+
+## Project Showcase  
+**Final Project:** [Sales Performance Dashboard](./Project/)  
+Created an interactive sales dashboard using PivotTables, slicers, and charts to visualize sales performance, customer distribution, and product trends.  
+
+---
+
+**Stage 1 Completed.**  
+Next: [Stage 2 — Intermediate Excel](../stage_2/)
