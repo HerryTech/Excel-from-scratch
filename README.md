@@ -12,3 +12,8 @@ Focuses on mastering the basics of Excel. This includes navigating the interface
 Expands on core skills by introducing advanced formulas, data cleaning tools, lookup functions, and automation techniques. It also covers advanced charting, conditional analysis, Power Query, and error handling.   
 - Folder: [Stage 2 - Intermediate Excel](./stage_2/)  
 
+---
+**Author:** HerryTech  
+**Purpose:** A complete Excel learning journey - from fundamentals to automation.  
+**Status:** Stage 1 Completed | Stage 2 In Progress  
+
