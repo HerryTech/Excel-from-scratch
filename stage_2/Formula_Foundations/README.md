@@ -1,1 +1,21 @@
-README
+# Formula Foundations  
+
+This lesson revisits core Excel formula concepts and focuses on understanding how cell references and basic operations work. By the end, you will be able to create flexible formulas, control references precisely, and apply calculations that adjust correctly when copied across cells.  
+
+## Topics Covered  
+- Understanding formula structure and order of operations (**PEMDAS**)  
+- Using **relative**, **absolute**, and **mixed** cell references  
+- Performing basic arithmetic calculations (`+`, `-`, `*`, `/`)  
+- Nesting functions within formulas for combined logic  
+- Building a small calculator to test and visualize how formulas behave  
+
+## Practice Files  
+- [Formula Foundations](./Formula_Foundations.xlsx) → Dataset with product sales, discounts, tax rate, and calculator sheet  
+
+## Key Takeaways  
+- **Relative references** (e.g., `A2`) adjust automatically when copied.  
+- **Absolute references** (e.g., `$A$2`) remain fixed no matter where the formula is moved.  
+- **Mixed references** (e.g., `$A2` or `A$2`) fix either the column or row, allowing more control in copied formulas.  
+- Excel follows **PEMDAS** when calculating formulas. Use parentheses to control the calculation order.  
+- You can build a simple calculator in Excel to understand how formulas respond to different cell references.  
+- Using **absolute references** for fixed values like tax rates or exchange rates ensures accuracy in repeated formulas.  
