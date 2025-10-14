@@ -6,11 +6,9 @@ This lesson revisits core Excel formula concepts and focuses on understanding ho
 - Understanding formula structure and order of operations (**PEMDAS**)  
 - Using **relative**, **absolute**, and **mixed** cell references  
 - Performing basic arithmetic calculations (`+`, `-`, `*`, `/`)  
-- Nesting functions within formulas for combined logic  
-- Building a small calculator to test and visualize how formulas behave  
 
 ## Practice Files  
-- [Formula Foundations](./Formula_Foundations.xlsx) → Dataset with product sales, discounts, tax rate, and calculator sheet  
+- [Formula Foundations](./Formula_foundations.xlsx) → Dataset with product sales, discounts, and tax rate
 
 ## Key Takeaways  
 - **Relative references** (e.g., `A2`) adjust automatically when copied.  
