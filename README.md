@@ -8,9 +8,9 @@ This repository documents my journey of re-learning Microsoft Excel from the ver
 Focuses on mastering the basics of Excel. This includes navigating the interface, entering and formatting data, using simple formulas, managing worksheets, and creating basic charts and PivotTables. The stage ends with a **Sales Performance Dashboard** project that applies all beginner concepts.  
 - Folder: [Stage 1 - Excel Fundamentals](./stage_1/)  
 
-### Stage 2 - Intermediate Excel  
+### Stage 2 - Excel Intermediate
 Expands on core skills by introducing advanced formulas, data cleaning tools, lookup functions, and automation techniques. It also covers advanced charting, conditional analysis, Power Query, and error handling.   
-- Folder: [Stage 2 - Intermediate Excel](./stage_2/)  
+- Folder: [Stage 2 - Excel Intermediate](./stage_2/)  
 
 ---
 **Author:** HerryTech  
