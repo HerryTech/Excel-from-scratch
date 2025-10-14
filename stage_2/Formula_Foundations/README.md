@@ -14,6 +14,5 @@ This lesson revisits core Excel formula concepts and focuses on understanding ho
 - **Relative references** (e.g., `A2`) adjust automatically when copied.  
 - **Absolute references** (e.g., `$A$2`) remain fixed no matter where the formula is moved.  
 - **Mixed references** (e.g., `$A2` or `A$2`) fix either the column or row, allowing more control in copied formulas.  
-- Excel follows **PEMDAS** when calculating formulas. Use parentheses to control the calculation order.  
-- You can build a simple calculator in Excel to understand how formulas respond to different cell references.  
+- Excel follows **PEMDAS** when calculating formulas. Use parentheses to control the calculation order.   
 - Using **absolute references** for fixed values like tax rates or exchange rates ensures accuracy in repeated formulas.  
