@@ -9,7 +9,7 @@ This lesson introduces logical formulas that help Excel make decisions automatic
 - Handling errors gracefully with **IFERROR**  
 - Applying conditions to categorize or qualify data  
 
-## Practice Files  
+## Practice File 
 - [Conditional Logic Essentials](./Conditional_logic_essentials.xlsx) → Dataset with student scores, averages, grades, and eligibility logic  
 
 ## Key Takeaways  
