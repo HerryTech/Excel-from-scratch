@@ -7,11 +7,10 @@ This lesson introduces practical methods for cleaning and standardizing data in 
 - Removing extra spaces and non-printable characters  
 - Standardizing capitalization  
 - Handling missing values  
-- Removing duplicates  
-- Splitting and combining text columns  
+- Removing duplicates   
 
-## Practice Files  
-- [Data Cleaning Basics](./Data_Cleaning_Basics.xlsx) → Dataset with sample employee records cleaned using TRIM, PROPER, LOWER, and IF formulas  
+## Practice File  
+- [Data Cleaning Basics](./Data_cleaning_basics.xlsx) → Dataset with sample employee records cleaned using TRIM, PROPER, LOWER, and IF formulas  
 
 ## Key Takeaways  
 - Clean data saves time and prevents misleading results  
