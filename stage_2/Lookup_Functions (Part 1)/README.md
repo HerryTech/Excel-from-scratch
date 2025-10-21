@@ -9,7 +9,7 @@ This lesson introduces Excel lookup functions that help you retrieve data across
 - Understanding lookup limitations
 
 ## Practice File
-- [Lookup Function (Part 1)](./Employee_Lookup_Tool.xlsx) → Dataset for learning and practicing lookup functions
+- [Lookup Function (Part 1)](./Lookup_functions(Part%201).xlsx) → Dataset for learning and practicing lookup functions
 
 ## Key Takeaways
 - Use **VLOOKUP** for vertical lookups and **HLOOKUP** for horizontal lookups
