@@ -70,5 +70,4 @@ This lesson is crucial for anyone working with data in Excel. Raw data from vari
 * The real power of text cleaning lies in nesting functions (e.g., `TRIM(LEFT(A1, FIND(" ", A1)-1))`) to perform complex transformations.
 * Don't be afraid to use intermediate "helper columns" to break down complex cleaning tasks into manageable steps. This improves readability, debugging, and often performance for intricate formulas.
 * `SEARCH` is not case-sensitive and allows wildcards, while `FIND` is case-sensitive and exact. Choose the right one for your specific needs.
-*   **Modern Tools (`TEXTJOIN`, `CONCAT`):** Leverage newer Excel functions (`TEXTJOIN`, `CONCAT`, `XLOOKUP`) for more efficient and readable solutions compared to older alternatives.
 *   **Beyond Formulas:** For highly repetitive or very complex cleaning on truly massive datasets, consider exploring **Power Query (Get & Transform Data)** in Excel. It's a game-changer for data preparation.
