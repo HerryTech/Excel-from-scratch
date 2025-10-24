@@ -1,6 +1,6 @@
 # Data Cleaning Basics  
 
-This lesson is crucial for anyone working with data in Excel. Raw data from various sources (CSV imports, databases, web scraping) is rarely clean and consistent. This module focuses on a suite of powerful text functions designed to remove inconsistencies, standardize formats, and extract specific pieces of information, making your data ready for accurate analysis and reporting.
+This lesson focuses on a suite of powerful text functions designed to remove inconsistencies, standardize formats, and extract specific pieces of information, making your data ready for accurate analysis and reporting.
 
 ## Topics Covered
 
