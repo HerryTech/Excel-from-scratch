@@ -61,7 +61,7 @@ This lesson is crucial for anyone working with data in Excel. Raw data from vari
 
 ## Practice File
 
--   [Data Cleaning Basics](./Data_cleaning_basics.xlsx) (This would link to your Excel file containing the large messy datasets and the expected clean outputs.)
+-   [Data Cleaning Basics](./Data_cleaning_basics.xlsx) 
 
 ## Key Takeaways
 
