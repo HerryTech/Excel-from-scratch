@@ -65,8 +65,8 @@ This lesson is crucial for anyone working with data in Excel. Raw data from vari
 
 ## Key Takeaways
 
-*   **Data Consistency is King:** Clean data ensures accurate analysis, reliable lookups, and professional reporting.
-*   **Order Matters:** The sequence in which you apply cleaning functions (e.g., `CLEAN` then `TRIM` then `PROPER`) can significantly impact the final result.
+*  Clean data ensures accurate analysis, reliable lookups, and professional reporting.
+*  The sequence in which you apply cleaning functions (e.g., `CLEAN` then `TRIM` then `PROPER`) can significantly impact the final result.
 *   **Combine Functions:** The real power of text cleaning lies in nesting functions (e.g., `TRIM(LEFT(A1, FIND(" ", A1)-1))`) to perform complex transformations.
 *   **Helper Columns:** Don't be afraid to use intermediate "helper columns" to break down complex cleaning tasks into manageable steps. This improves readability, debugging, and often performance for intricate formulas.
 *   **`SEARCH` vs. `FIND`:** Remember `SEARCH` is not case-sensitive and allows wildcards, while `FIND` is case-sensitive and exact. Choose the right one for your specific needs.
