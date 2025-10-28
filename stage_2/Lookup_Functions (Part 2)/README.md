@@ -10,7 +10,7 @@ This lesson expands on lookup functions by introducing more flexible and modern 
 - Handling lookup errors gracefully  
 
 ## Practice File  
-- [Lookup Functions (Part 2)](./Lookup_functions%20(Part%202).xlsx) → Dataset with employee performance records  
+- [Lookup Functions (Part 2)](./Lookup_functions%20(Part%202).xlsx) → Dataset with employee performance recordsc  
 
 ## Key Takeaways  
 - **INDEX + MATCH** allows looking left or right of the lookup column  
