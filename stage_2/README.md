@@ -7,4 +7,4 @@ This stage focuses on expanding your Excel skills beyond the basics. It introduc
 - [Conditional Logic Essentials](./Conditional_Logic_Essentials/)
 - [Data Cleaning Basics](./Data_Cleaning_Basics/)
 - [Multi-Condition Formulas](./Multi_Condition_Formulas/)
-- 
+- [Lookup Function(Part 1)]
