@@ -8,4 +8,4 @@ This stage focuses on expanding your Excel skills beyond the basics. It introduc
 - [Data Cleaning Basics](./Data_Cleaning_Basics/)
 - [Multi-Condition Formulas](./Multi_Condition_Formulas/)
 - [Lookup Function (Part 1)](./Lookup_Functions%20(Part%201)/)
-- [Lookup Function (Part 1)](./Lookup_Functions%20(Part%202)/)
+- [Lookup Function (Part 2)](./Lookup_Functions%20(Part%202)/)
