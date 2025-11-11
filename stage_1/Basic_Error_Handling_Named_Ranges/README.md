@@ -7,7 +7,8 @@ This lesson introduces two important beginner concepts: handling common Excel er
   - **#DIV/0!** (division by zero)  
   - **#VALUE!** (wrong data type)  
   - **#N/A** (missing lookup values) 
-  - **#REF!** (missing values) 
+  - **#REF!** (invalid cell reference or deleted cell) 
+  - **#NAME?** (unrecognized text or function name)
 - Using **IFERROR** and **IFNA** to display custom messages instead of errors  
 - Creating **named ranges** for cells or tables to simplify formulas  
 - Using named ranges in formulas (e.g., `=SUM(Price)`, `=VLOOKUP(A2, CategoryTable, 2, FALSE)`)  
