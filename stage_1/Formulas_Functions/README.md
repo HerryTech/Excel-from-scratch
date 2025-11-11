@@ -18,5 +18,5 @@ This lesson introduces formulas and basic functions in Excel, enabling dynamic c
 ## Key Takeaways
 - Formulas allow Excel to perform calculations that update dynamically.  
 - Cell references can be **relative** (change when copied) or **absolute** (fixed with `$`).  
-- Functions like `SUM`, `AVERAGE`, `MIN`, and `MAX` provide quick insights into data.  
+- Functions like `SUM`, `COUNT`, `COUNTA`, `COUNTBLANK`, `AVERAGE`, `MIN`, and `MAX` provide quick insights into data.  
 - Using formulas reduces manual errors and improves efficiency in analysis.  
