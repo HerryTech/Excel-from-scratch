@@ -6,7 +6,8 @@ This lesson introduces formulas and basic functions in Excel, enabling dynamic c
 - Writing formulas with cell references  
 - Relative vs. absolute references (`C2*D2` vs. `$C$2*$D$2`)  
 - Common functions:  
-  - `SUM` (total values)  
+  - `SUM` (total values)
+  - `COUNT`, `COUNTA`, `COUNTBLANK` (Count values)
   - `AVERAGE` (mean value)  
   - `MIN` (lowest value)  
   - `MAX` (highest value)  
