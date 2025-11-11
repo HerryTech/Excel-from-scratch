@@ -19,6 +19,8 @@ This lesson introduces two important beginner concepts: handling common Excel er
 ## Key Takeaways
 - **#DIV/0!** happens when dividing by zero; fix it with `IF(C2=0, "No units", D2/C2)`.  
 - **#VALUE!** occurs when using text where numbers are expected; use `ISNUMBER` checks to validate inputs.  
-- **#N/A** happens when a lookup value is missing; wrap lookups with `IFNA(..., "Not Found")` to handle it gracefully.  
+- **#N/A** happens when a lookup value is missing; wrap lookups with `IFNA(..., "Not Found")` to handle it gracefully.
+- **#REF!** appears when a referenced cell is deleted or invalid; fix it by correcting or restoring the missing reference.
+- **#NAME?** shows when Excel does not recognize text or a function name; check for misspelled functions, missing quotes, or undefined named ranges.
 - Named ranges make formulas easier to read and manage. Instead of `$B$2:$B$21`, you can name it **Price** and simply write `=SUM(Price)`.  
 - Lookup tables can be placed alongside the dataset or on a separate sheet. Naming them (e.g., **CategoryTable**) makes formulas cleaner and more reusable.  
