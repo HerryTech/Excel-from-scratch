@@ -15,5 +15,5 @@ Expands on core skills by introducing advanced formulas, data cleaning tools, lo
 ---
 **Author:** HerryTech  
 **Purpose:** A complete Excel learning journey - from fundamentals to automation.  
-**Status:** Stage 1 Completed | Stage 2 In Progress
+**Status:** Stage 1 Completed | Stage 2 In Progress...
 
